@@ -1,0 +1,11 @@
+1 Fish 10 Fresh WetFood 
+2 Cola 10 Cold Drink 
+3 Lenovo 4 SecondHand Laptop 
+4 MSI 3 New Laptop 
+5 Pensil 45 New Accessory 
+7 Tomato 58 Fresh Vegetable 
+8 Brocolli 15 Fresh Vegetable 
+9 Calculator 2 New Accessory 
+10 Keyboard 13 New Accessory 
+11 Earphone 30 New Accessory 
+12 Cable 35 New Accessory 
